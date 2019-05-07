@@ -1,0 +1,19 @@
+# dependencies
+node_modules
+
+# build
+dist
+
+# IDE files
+.idea
+
+# Logs
+.audit.json
+*.log
+
+# Mac
+.DS_Store
+
+# nyc
+.nyc_output
+coverage
